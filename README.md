@@ -33,4 +33,4 @@ A Machine Learning project that detects spam emails using Naive Bayes and TF-IDF
 
 ## Author
 
-Pratiksha Shivsharne.
+Pratiksha Shivsharne
