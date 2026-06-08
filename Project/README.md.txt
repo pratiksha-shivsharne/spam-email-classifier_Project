@@ -1,20 +1,36 @@
 # Spam Email Classifier
 
-A Machine Learning project that detects spam emails
-using Naive Bayes and TF-IDF vectorization.
+A Machine Learning project that detects spam emails using Naive Bayes and TF-IDF vectorization.
 
-## Accuracy: 97.8%
+## Accuracy
 
-## Tech used
-- Python, scikit-learn, pandas, matplotlib
+96.86%
 
-## How it works
+## Tech Used
+
+- Python
+- Scikit-learn
+- Pandas
+- Matplotlib
+- Seaborn
+
+## How it Works
+
 1. Load SMS Spam Collection dataset (5574 messages)
 2. Convert text to numbers using TF-IDF
 3. Train Naive Bayes classifier
-4. Achieved 97.8% accuracy on test data
+4. Achieved 96.86% accuracy on test data
 
 ## Results
-[confusion matrix image here]
 
-Author: Pratiksha Shivsharne
+### Confusion Matrix
+
+![Confusion Matrix](confusion_matrix.png)
+
+### Top Spam Words
+
+![Top Spam Words](spam_words.png)
+
+## Author
+
+Pratiksha Shivsharne
