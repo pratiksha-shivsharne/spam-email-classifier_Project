@@ -23,14 +23,14 @@ A Machine Learning project that detects spam emails using Naive Bayes and TF-IDF
 
 ## Results
 
-### Confusion Matrix
+## Confusion Matrix
 
-![Confusion Matrix](confusion_matrix.png)
+![Confusion Matrix](./Project/confusion_matrix.png)
 
-### Top Spam Words
+## Top Spam Words
 
-![Top Spam Words](spam_words.png)
+![Top Spam Words](./Project/spam_words.png)
 
 ## Author
 
-Pratiksha Shivsharne
+## Pratiksha Shivsharne
